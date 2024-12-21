@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": "c6b7",
+      "userId": "5f97",
+      "title": "123",
+      "text": "123",
+      "createdAt": 1733512825274
+    }
+  ],
+  "users": [
+    {
+      "id": "5f97",
+      "email": "123123@gmail.com",
+      "password": "Sa12345678",
+      "createdAt": 1732301178679
+    }
+  ]
+}
